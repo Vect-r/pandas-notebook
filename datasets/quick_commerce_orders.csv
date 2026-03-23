@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Item_Name,Category,Quantity,Item_Price_INR,Total_Price_INR,Delivery_Time_Min,Delivered_On_Time
+8001,2026-03-20,Amul Butter 100g,Dairy,2,58,116,12,True
+8002,2026-03-20,Maggi 2-Minute Noodles,Snacks,5,14,70,15,True
+8003,2026-03-20,Onion 1kg,Produce,1,35,35,22,False
+8004,2026-03-21,Tata Salt 1kg,Pantry,1,28,28,9,True
+8005,2026-03-21,Thumbs Up 750ml,Beverages,2,40,80,11,True
+8006,2026-03-21,Eggs 6pcs,Dairy,1,42,42,18,True
+8007,2026-03-22,Lays India's Magic Masala,Snacks,3,20,60,25,False
+8008,2026-03-22,Aashirvaad Atta 5kg,Pantry,1,240,240,14,True
+8009,2026-03-22,Tomato 1kg,Produce,2,40,80,16,True
+8010,2026-03-23,Red Label Tea 250g,Pantry,1,130,130,10,True
+8011,2026-03-23,Surf Excel Matic 1kg,Home,1,215,215,19,True
+8012,2026-03-23,Amul Taaza Milk 1L,Dairy,3,66,198,13,True
